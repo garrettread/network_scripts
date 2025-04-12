@@ -1,0 +1,20 @@
+---------------ger512.com---------------
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+Port 8080: OPEN
+---------------github.com---------------
+Port 22: OPEN
+Port 80: OPEN
+Port 443: OPEN
+Port 8080: CLOSED
+---------------heb.com---------------
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+Port 8080: OPEN
+---------------google.com---------------
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+Port 8080: CLOSED

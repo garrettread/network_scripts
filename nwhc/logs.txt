@@ -1,0 +1,8 @@
+google.com: Ping Success
+google.com: HTTP OK
+github.com: Ping Success
+github.com: HTTP OK
+cloudflare.com: Ping Success
+cloudflare.com: HTTP OK
+ger512.com: Ping Success
+ger512.com: HTTP OK

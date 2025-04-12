@@ -1,0 +1,9 @@
+https://google.com is reachable
+https://google.com: FOUND keyword 'privacy'
+https://google.com: FOUND keyword 'terms'
+https://github.com is reachable
+https://github.com: FOUND keyword 'privacy'
+https://github.com: FOUND keyword 'security'
+https://github.com: FOUND keyword 'terms'
+https://ger512.com is reachable
+https://ger512.com: NO keywords found
