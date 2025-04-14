@@ -1,0 +1,4 @@
+https://ger512.com took 141.68 ms - OK
+https://google.com took 537.92 ms - WARNING: Slow response!
+https://github.com took 197.65 ms - OK
+https://cloudflare.com took 727.97 ms - WARNING: Slow response!
